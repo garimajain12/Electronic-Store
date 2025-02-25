@@ -73,8 +73,8 @@ const Products = () => {
           <div className="col-lg-6 m-auto">
             <h1 className="h1">All our products</h1>
             <p>
-              Shop for Home Appliances, Laptops & Accessories online at Vijay
-              Electronics
+              Shop for Home Appliances, Laptops & Accessories online at
+              Electronics Store
             </p>
           </div>
           <div className="col-lg-6 m-auto" style={{ display: "flex" }}>

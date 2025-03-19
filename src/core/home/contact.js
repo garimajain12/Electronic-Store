@@ -26,13 +26,6 @@ const contact = () => {
                 <h4>Email:</h4>
                 <p><a href="mailto:garimajain120403@gmail.com">garimajain120403@gmail.com</a></p>
               </div>
-
-              <div className="phone">
-                <i className="bi bi-phone"></i>
-                <h4>Call:</h4>
-                <p><a href="tel:+918949756599">8824435585</a></p>
-              </div>
-
             </div>
 
           </div>
